@@ -6,10 +6,10 @@ function Footer() {
                 <div className="footer-admin rounded-top p-4">
                     <div className="row">
                         <div className="col-12 col-sm-6 text-center text-sm-start">
-                        Copyright © 2023 <a href="#">VNSIM Company</a>, All Right Reserved. 
+                        Copyright © 2024 <a href="#">hecker IT1</a>, All Right Reserved. 
                         </div>
                         <div className="col-12 col-sm-6 text-center text-sm-end">
-                            Designed By <a href="https://htmlcodex.com">Dung Nguyen</a>
+                            Designed By <a href="https://htmlcodex.com">Tung Pham</a>
                         </div>
                     </div>
                 </div>
