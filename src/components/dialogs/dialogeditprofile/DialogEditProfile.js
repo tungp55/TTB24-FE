@@ -96,7 +96,7 @@ return (
                 <div className="account-settings">
                 <div className="user-profile">
                 <div className="user-avatar">
-                <img src={imageUrl ? imageUrl: Images.default} alt="Maxwell Admin"/>
+                {/* <img src={imageUrl ? imageUrl: Images.default} alt="Maxwell Admin"/> */}
                 </div>
                 </div>
                 <div className="image-change">
